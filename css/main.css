@@ -148,8 +148,12 @@ img{
     border-radius: 20px 20px 20px 20px;
 }
 
-.name{
-    height: 1em;
+.logo{
+    height: 3em;
+}
+
+.perfiltext{
+    color:red;
 }
 
 footer{
